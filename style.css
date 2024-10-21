@@ -1,5 +1,6 @@
 body{
     background-color: #18453B;
+    padding-bottom: 45px;
 }
 
 h1{
@@ -21,3 +22,17 @@ p{
 li{
     color: white;
 }
+
+table, th, td{
+    color: white;
+    border: 1px solid;
+}
+
+label {
+    color: white;
+}
+
+form{
+    color: white;
+}
+
