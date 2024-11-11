@@ -48,10 +48,6 @@ label {
     color: white;
 }
 
-form{
-    color: white;
-}
-
 .Travis{
 float: left;
 margin-right: 5px;
@@ -59,6 +55,12 @@ margin-left: 5px;
 }
 
 .Stadium{
+float: left;
+margin-right: 5px;
+margin-left: 5px;
+}
+
+.personalPic{
 float: left;
 margin-right: 5px;
 margin-left: 5px;
@@ -90,4 +92,53 @@ article{
     margin: 20px;
     border-radius: 25px;
     padding: 20px;
+}
+
+.contactForm{
+    color: white;
+    background-color: #d3d3d3;
+    display: flex 4 ;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 400px;
+}
+
+.name{
+    background-color: #000000;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.email{
+    background-color: #000000;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.reason{
+    background-color: #000000;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.message{
+    background-color: #000000;
+    margin: 20px;
+    border-radius: 25px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
 }
